@@ -15,3 +15,4 @@ class Vertex:
         self.fix = False
         self.generation = 0
         self.edges = []
+        
